@@ -1,0 +1,17 @@
+texto oi = "oi tudo bem"
+grande numero_grande = 5
+
+
+sera (5> 0){
+    captura("verdadeiro")
+
+}naosera{
+    captura("falso")
+}
+
+
+grande contador = 1 
+durante (contador <= 3){
+    captura("contador")
+    contador ++
+}
